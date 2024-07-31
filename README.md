@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ubaidillah</h1>
 <h3 align="center">Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **laravel and vue**
+- 🌱 I’m currently learning **laravel, express, and vue**
 
 - 📫 How to reach me **ubaid.namaku@gmail.com**
 
